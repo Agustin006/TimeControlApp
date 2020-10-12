@@ -1,4 +1,4 @@
-## App
+## location C:\Users\usuario\PycharmProjects\App
 from datetime import datetime as dt
 import pandas as pd
 from kivy.uix.gridlayout import GridLayout
