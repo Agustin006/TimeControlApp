@@ -1,5 +1,6 @@
 ## location C:\Users\usuario\PycharmProjects\App
 ## Git tutorial https://www.youtube.com/watch?v=udO6gSLXujU
+## y esto es una prueba de pull
 from datetime import datetime as dt
 import pandas as pd
 from kivy.uix.gridlayout import GridLayout
